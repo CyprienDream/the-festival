@@ -1,4 +1,4 @@
-# the-festival
+# The Festival
 
 This is a program that allows event organisers to better manage bands, band members and venues.
 Data is extracted from three text files and allocated accordingly. The user is able to perform
